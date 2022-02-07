@@ -6,4 +6,4 @@ Subprojects:
 
 https://github.com/tomzcn/decentral-http-core Very little code for a small core.
 
-https://github.com/tomzcn/decentral-http/subprojects/decentral-http-entrance An announcement service. And the example of server on AWS Lambda.
+https://github.com/tomzcn/decentral-http/tree/main/subprojects/decentral-http-entrance An announcement service. And the example of server on AWS Lambda.

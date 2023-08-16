@@ -6,4 +6,4 @@ Subprojects:
 
 https://github.com/tomzcn/decentral-http-core Very little code for a small core.
 
-https://github.com/tomzcn/decentral-http/tree/main/subprojects/decentral-http-entrance An announcement service. 
+https://github.com/tomzcn/decentral-http/tree/main/subprojects/decentral-http-entrance-nodejs An announcement service. 

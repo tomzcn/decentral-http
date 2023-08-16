@@ -10,7 +10,7 @@ node index.js
 
 Compile:
 
-``
+```
 haxelib install hxnodejs
 haxe build.hxml
 ```
